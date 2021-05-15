@@ -20,17 +20,20 @@ If you have NPM and Node.js installed, you can create a React application by fir
 Install create-react-app by running this command in your terminal:
 
 ```
-C:\Users\Your Name>npm install -g create-react-app
+npm install -g create-react-app
 ```
 
-To create a React app named 'onlinememegenerator', run this command:
-```
-C:\Users\Your Name>npx create-react-app onlinememegenrator
-```
+### How To Use ###
 
-To run the React app, run this command:
+1. To create a React app named 'onlinememegenerator', run this command:
+```
+npx create-react-app onlinememegenrator
+```
+2. Add the files to this app folder.
+
+3. To run the React app, run this command:
 
 ```
-C:\Users\Your Name>cd myfirstreact
-C:\Users\Your Name\myfirstreact>npm start
+cd myfirstreact
+npm start
 ```
