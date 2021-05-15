@@ -2,6 +2,7 @@
 >This project is on an online meme geneartor which generates random meme templates or image as a background for the texts that the users enter.
 
 ---
+![image](https://user-images.githubusercontent.com/57536255/118364429-0192b800-b5b6-11eb-92fa-2d912dbbf4c1.png)
 
 ### Technologies Used ###
 1. HTML
