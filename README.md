@@ -1,9 +1,15 @@
 # Online-Meme-Generator
->This project is on an online meme geneartor which generates random meme templates or image as a background for the texts that the users enter.
+>This project is on an online meme generator which generates random meme templates or image as a background for the texts that the users enter.
 
 ---
 ![image](https://user-images.githubusercontent.com/57536255/118364429-0192b800-b5b6-11eb-92fa-2d912dbbf4c1.png)
-![](https://github.com/hellomlorg/Online-Meme-Generator/blob/b7786da1096e356314a68ab430fc2a45afd613de/add_text.gif)
+---
+
+### Description ###
+
+This is a React app which generates random meme images on top which the user can write text to express their creativity through a meme image.
+
+---
 
 ### Technologies Used ###
 1. HTML
@@ -39,3 +45,17 @@ npx create-react-app onlinememegenrator
 cd myfirstreact
 npm start
 ```
+4. First, the user can generate a random meme template or backgorund, by clicking on 'Generate' button. Every time the button is clicked, a different image appears.
+
+![](https://github.com/hellomlorg/Online-Meme-Generator/blob/fa4688b767e4b43eeb47eb86980fe1cced191f88/generate_meme_template.gif)
+
+5. After selecting an image, the user can type in the texts which then appears on the top and bottom of the meme backgorund.
+
+![](https://github.com/hellomlorg/Online-Meme-Generator/blob/b7786da1096e356314a68ab430fc2a45afd613de/add_text.gif)
+
+---
+
+### Credits ###
+
+This project was entirely inspired from the 'React Meme Generator Capstone Project' in 'Learn React for free' course by Bob Ziroll on Scrimba.
+The link for the course: https://scrimba.com/learn/learnreact
